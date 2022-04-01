@@ -1,0 +1,2 @@
+Portfolio Manager
+When the application starts it will read a file resources/initialPosition.csv, load asset possitions and corresponding instrument data and simulate market data updates to all equity instruments, reflecting the change to equity derivatives using BlackScholes model based on the change in market price of the underlying. This program outlines a widely applicable initial architecture that can be easily extended or individual components can be decoupled with minimal effort to achieve different objectives.

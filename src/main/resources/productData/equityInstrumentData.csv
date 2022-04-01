@@ -1,0 +1,3 @@
+symbol,securityType,lastClosePrice,averageDailyVolume,volatility
+AAPL,STOCK,177,7000000,0.30
+TELSA,STOCK,1087,900000,0.35
